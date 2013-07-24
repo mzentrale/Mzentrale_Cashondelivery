@@ -1,0 +1,3 @@
+src/app/etc/modules/Mzentrale_Cashondelivery.xml    app/etc/modules/Mzentrale_Cashondelivery.xml
+src/app/code/community/Mzentrale/Cashondelivery     app/code/community/Mzentrale/Cashondelivery
+src/app/locale/de_DE/Mzentrale_Cashondelivery.csv   app/locale/de_DE/Mzentrale_Cashondelivery.csv

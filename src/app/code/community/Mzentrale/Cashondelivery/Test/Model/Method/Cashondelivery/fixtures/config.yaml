@@ -1,0 +1,6 @@
+config:
+  default/general/country/default: DE
+  default/general/country/allow: DE,AT,CH
+  default/payment/cashondelivery/active: 1
+  default/payment/cashondelivery/allowspecific: 1
+  default/payment/cashondelivery/specificcountry: DE
